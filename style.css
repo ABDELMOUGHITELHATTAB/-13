@@ -1,0 +1,26 @@
+h2{background-color: rgb(84, 235, 255);
+   font-size: 100px;
+   border: solid ;
+   width: 500px;
+   height: 150px;
+   color: rgb(5, 0, 49);}
+
+p{background-color: rgb(84, 235, 255);
+   font-size: 100px;
+   border: solid ;
+   width: 500px;
+   height: 150px;
+   color: rgb(13, 0, 49);}
+
+h1 { 
+   background-color: aqua;
+   font-size: 150px;
+   border: solid ;
+   width: 700px;
+   height: 200px;
+   color: rgb(140, 197, 26);}
+   @media (max-width:450px){
+      h1{
+         font-size: 100px;
+      }
+   }
